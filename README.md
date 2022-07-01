@@ -32,6 +32,8 @@ npm install
 npm start
 ```
 
+The app and demo are using the development build of React. Note that this build is not suitable for production. Make sure to [use the production build](https://reactjs.org/docs/optimizing-performance.html#use-the-production-build) before deployment.
+
 ## How to play
 
 This game follows the basic principe of the original Minesweeper from Windows (except that you can land on a mine
